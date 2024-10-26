@@ -1,0 +1,14 @@
+
+#orange-p {
+    color: orange;
+}
+
+#red-p {
+    color: rgb(255, 0, 0);
+}
+.green p {
+    color: green;
+}
+p {
+    color: blue
+}
